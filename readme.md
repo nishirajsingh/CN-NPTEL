@@ -31,6 +31,10 @@ All solutions are organized in a structured, easy-to-navigate format to support 
 ```
 CN-NPTEL/
 │
+├── Week0/
+│ ├── Week-0.md
+│ └── Week-0-ans.png
+│
 ├── Week1/
 │ ├── Week-1.md
 │ └── Week-1-ans.png
